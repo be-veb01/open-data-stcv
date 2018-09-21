@@ -11,12 +11,16 @@ The STCV has characteristics of both a catalogue and a bibliography. First and f
 The information is highly accurate: each description is created by one bibliographer and then verified by another. Editions are identified by a 'fingerprint', based on unique characteristics of the print run. This makes it possible to reliably identify books as copies of a particular edition. 
 
 ## Printers, Publishers and Booksellers
-STCV containts authority records for printers, publishers and booksellers involved in the creation of the described editions. 
+STCV contains authority records for printers, publishers and booksellers involved in the creation of the described editions, including name variants, addresses, sign and years of activity. This information is not yet available as structured data, but we are planning to publish it as an open dataset in the future.
 
 ## Relevant links
 * The STCV online catalogue: http://stcv.be. 
 * Full documentation: http://manual.stcv.be.
 * Open data documentation: http://manual.stcv.be/page/Open_Data
+
+## Content
+* As per 2018-09-21, the database contains 24,871 bibliographical descriptions (editions) and 1,551 printer authority records.
+* The dataset is fairly representative for the book production of the 17th century, but less so for other periods (see [list of included collections and periods (nl)](http://www.vlaamse-erfgoedbibliotheek.be/dossier/short-title-catalogus-vlaanderen/stcv-verwerkte-collecties#ELDERS)
 
 ## Potential Use ##
 The STCV data may be of use to:
@@ -34,10 +38,15 @@ The STCV data may be of use to:
 Metadata and images: [CC0](https://creativecommons.org/publicdomain/zero/1.0/) / [MIT](https://github.com/be-veb01/open-data-stcv/blob/master/LICENSE)
 
 ## Referencing
-STCV is an authoritative database and is updated on a daily basis. We appreciate you linking back the source when you publish (parts of) this data.
+STCV is an authoritative database and is updated on a daily basis. We appreciate you referencing STCV as source when you publish (parts of) the data.
 
-Referencing the database:
-* _STCV. Bibliography of the Hand Press Book_. http://stcv.be Antwerp: Vlaamse Erfgoedbibliotheek.  
+Referencing the database as a whole:
+* Some data derived from: _STCV. Bibliography of the Hand Press Book_. http://stcv.be Antwerp: Vlaamse Erfgoedbibliotheek. Retrieved [date].
+
+Referencing the database on the record level:
+* Described at (Label): STCV. Bibliography of the Hand Press Book
+* Described at (URI): http://stcv.be/[?????]/[uid] 
+
 
 Referencing individual records:
 _STCV. Bibliography of the Hand Press Book_. '<recordNumber>' http://stcv.be Antwerp: Vlaamse Erfgoedbibliotheek. 
