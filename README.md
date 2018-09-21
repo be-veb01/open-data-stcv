@@ -20,7 +20,7 @@ STCV containts authority records for printers, publishers and booksellers involv
 
 ## Potential Use ##
 The STCV data may be of use to:
-* Researchers in the humanities. While all data can be consulted via the STCV online catalogue, not all information can be queried or adequatly presented to facilitate certain types of research. We want to remedy this situation by providing full copies of the dataset that can be processed with research specific tools.
+* Researchers in the humanities. While all data can be consulted via the STCV online catalogue, not all information can be queried or adequatly presented to facilitate certain types of research. We want to remedy this situation by providing full copies of the dataset that can be processed with research specific tools, for instance for statistical 
 
 * _Omschrijf wie (een concreet stuk van) die data nodig heeft. (cf. je gebruikscenario)_
 * _Omschrijf welke data je vrij toegankelijk maakt om die nood te lenigen._
@@ -37,11 +37,9 @@ Metadata and images: [CC0](https://creativecommons.org/publicdomain/zero/1.0/) /
 STCV is an authoritative database and is updated on a daily basis. We appreciate you linking back the source when you publish (parts of) this data.
 
 Referencing the database:
-* _STCV. Bibliography of the Hand Press Book_. Antwerpen: Vlaamse Erfgoedbibliotheek 2000-2018. <http://stcv.be>
+* _STCV. Bibliography of the Hand Press Book_. http://stcv.be Antwerp: Vlaamse Erfgoedbibliotheek.  
 
 Referencing individual records:
-* [Title] in: _STCV. Bibliography of the Hand Press Book_. Antwerpen: Vlaamse Erfgoedbibliotheek 2000-2018. <http://stcv.be>
-
-Referencing individual records:
+_STCV. Bibliography of the Hand Press Book_. '<recordNumber>' http://stcv.be Antwerp: Vlaamse Erfgoedbibliotheek. 
 * _Hoe verwijs je best naar de inhoud van je data? (cf persistente URI's)_
 * _andere richtlijnen voor gebruik?_
